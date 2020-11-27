@@ -29,7 +29,7 @@ const Footer = () => {
 
 
                 <div style={{fontSize:'20px'}} className="mt-5 text-center">
-                        <p>Copyright {(new Date()).getFullYear()} All Rights Reserved By sonjoybarmon19@gmail.com</p>
+                        <p>Copyright {(new Date()).getFullYear()} All Rights Reserved By arafatshuvo18@gmail.com</p>
                 </div>
             </div>
         </footer>
